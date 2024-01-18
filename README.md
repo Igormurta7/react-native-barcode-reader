@@ -25,17 +25,25 @@ Certifique-se de ter o Expo CLI instalado. Em seguida, siga os passos abaixo:
 
 Clone este repositório:
 
+'''
+git clone https://github.com/seu-usuario/BoletoReaderApp.git
+'''
 
-'''git clone https://github.com/seu-usuario/BoletoReaderApp.git'''
-'''cd BoletoReaderApp'''
+'''
+cd BoletoReaderApp
+'''
 
 Instale as dependências:
 
-'''npm install'''
+'''
+npm install
+'''
 
 Execute o aplicativo:
 
-'''expo start'''
+'''
+expo start
+'''
 
 Escaneie o código QR gerado com o aplicativo Expo Go no seu dispositivo para visualizar o aplicativo.
 
